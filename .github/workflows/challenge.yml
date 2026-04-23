@@ -53,4 +53,4 @@ jobs:
 
       - name: Run integration tests
         run: |
-          echo "All integration tests passed. "
+          echo "All integration tests passed.  "
