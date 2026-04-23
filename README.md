@@ -8,6 +8,7 @@ Internal tool for managing and publishing releases. Runs CI checks on all pull r
 npm install
 npm run build
 ```
+test
 
 ## CI
 
